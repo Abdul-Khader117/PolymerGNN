@@ -321,6 +321,6 @@ streamlit run app.py
 
 ## Author
 
-Shriram
+Abdul Khader
 
 Graph Neural Networks • Materials Informatics • Quantum Machine Learning • Polymer Property Prediction
