@@ -3,7 +3,7 @@
 ### 🚀 Live Demo
 
 **Try the application here:**  
-https://polymergnn-28hntqgucsqwgdo8dcjvos.streamlit.app/
+https://polymergnn-lcgqi6epzlhdmonxwgyw7n.streamlit.app/
 
 ![Main Dashboard](Screenshots/Dashboard.png)
 
